@@ -1,0 +1,6 @@
+/.idea
+auth-venv
+.env
+*.sqlite3
+*.txt
+*/__pycache__/
